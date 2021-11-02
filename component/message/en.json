@@ -1,7 +1,7 @@
 {
     "not_translated": "this message only exist in the en dict",
     "app": {
-        "title": "test_sepal",
+        "title": "ofgt_kmean",
         "footer": "The sky is the limit \u00a9 {}",
         "drawer_item": {
             "about": "About"
